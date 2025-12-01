@@ -152,7 +152,7 @@ Industry: Agencies, education, and SMB SaaS had more fluctuations
 
 Acquisition channel: Customers acquired via paid ads leaked more than those from organic/referrals
 
-(This can be adjusted once you provide segment names.)
+
 
 8. Preventable leakage is high
 
