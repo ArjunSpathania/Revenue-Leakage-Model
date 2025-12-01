@@ -1,0 +1,501 @@
+customer_id,industry,region,segment,signup_date,acquisition_channel
+C0001,SaaS,APAC,Enterprise,2023-10-01,Referral
+C0002,SaaS,Europe,SMB,2024-11-25,Partner
+C0003,SaaS,APAC,Enterprise,2024-06-18,Organic
+C0004,Edtech,Europe,SMB,2024-03-13,Referral
+C0005,Healthtech,APAC,Mid-Market,2023-04-24,Organic
+C0006,Edtech,APAC,SMB,2023-04-24,Partner
+C0007,Healthtech,APAC,Enterprise,2023-02-12,Organic
+C0008,Edtech,LATAM,SMB,2024-09-24,Referral
+C0009,Edtech,LATAM,Mid-Market,2024-03-14,Organic
+C0010,Fintech,North America,Mid-Market,2024-05-31,Referral
+C0011,Edtech,North America,SMB,2023-01-16,Organic
+C0012,E-commerce,Europe,SMB,2024-12-09,Referral
+C0013,Fintech,LATAM,SMB,2024-08-30,Referral
+C0014,Edtech,Europe,SMB,2023-06-05,Organic
+C0015,SaaS,North America,Mid-Market,2023-05-13,Partner
+C0016,E-commerce,Europe,SMB,2023-05-14,Paid
+C0017,E-commerce,North America,SMB,2023-08-11,Partner
+C0018,E-commerce,LATAM,SMB,2024-01-19,Organic
+C0019,Fintech,APAC,Mid-Market,2023-11-12,Partner
+C0020,Edtech,LATAM,SMB,2023-08-01,Referral
+C0021,Edtech,Europe,SMB,2024-03-22,Paid
+C0022,SaaS,Europe,SMB,2023-04-12,Organic
+C0023,SaaS,LATAM,SMB,2023-08-02,Organic
+C0024,E-commerce,LATAM,Mid-Market,2023-09-25,Organic
+C0025,SaaS,North America,SMB,2023-11-29,Paid
+C0026,Fintech,Europe,SMB,2024-07-27,Referral
+C0027,Edtech,Europe,Mid-Market,2023-05-26,Organic
+C0028,E-commerce,LATAM,Mid-Market,2024-01-11,Partner
+C0029,SaaS,APAC,SMB,2024-03-08,Organic
+C0030,Fintech,Europe,Mid-Market,2023-02-03,Organic
+C0031,Fintech,APAC,Enterprise,2024-03-19,Organic
+C0032,SaaS,LATAM,SMB,2023-05-05,Organic
+C0033,Edtech,LATAM,Mid-Market,2023-02-17,Referral
+C0034,SaaS,North America,Mid-Market,2024-11-23,Partner
+C0035,E-commerce,Europe,SMB,2024-12-05,Referral
+C0036,SaaS,APAC,SMB,2024-08-13,Partner
+C0037,Fintech,North America,SMB,2023-08-11,Organic
+C0038,SaaS,Europe,Enterprise,2023-03-13,Paid
+C0039,Edtech,North America,Enterprise,2024-05-14,Referral
+C0040,Healthtech,LATAM,Mid-Market,2023-11-18,Paid
+C0041,SaaS,Europe,SMB,2023-03-31,Referral
+C0042,Edtech,North America,Mid-Market,2023-12-28,Organic
+C0043,Edtech,North America,Mid-Market,2023-01-26,Referral
+C0044,Fintech,APAC,SMB,2024-10-25,Organic
+C0045,Edtech,North America,SMB,2023-07-08,Referral
+C0046,Edtech,Europe,Mid-Market,2024-04-28,Organic
+C0047,Edtech,Europe,SMB,2023-08-16,Organic
+C0048,Edtech,APAC,Mid-Market,2024-01-15,Partner
+C0049,E-commerce,Europe,SMB,2024-02-04,Organic
+C0050,E-commerce,LATAM,SMB,2023-05-15,Partner
+C0051,Fintech,Europe,SMB,2024-12-08,Organic
+C0052,SaaS,Europe,SMB,2024-07-19,Paid
+C0053,Edtech,North America,Enterprise,2024-11-16,Organic
+C0054,SaaS,North America,SMB,2024-10-15,Paid
+C0055,SaaS,Europe,Enterprise,2024-03-12,Paid
+C0056,Fintech,APAC,Mid-Market,2024-11-03,Organic
+C0057,Edtech,North America,Mid-Market,2023-03-06,Paid
+C0058,Edtech,APAC,SMB,2023-05-24,Partner
+C0059,Healthtech,Europe,Mid-Market,2023-02-03,Referral
+C0060,SaaS,Europe,Mid-Market,2023-08-26,Organic
+C0061,SaaS,LATAM,SMB,2023-10-11,Paid
+C0062,E-commerce,North America,SMB,2023-07-18,Organic
+C0063,Healthtech,Europe,Enterprise,2024-08-27,Partner
+C0064,E-commerce,LATAM,Enterprise,2023-09-18,Organic
+C0065,E-commerce,North America,SMB,2023-07-25,Organic
+C0066,E-commerce,Europe,Mid-Market,2024-02-01,Paid
+C0067,Fintech,Europe,Enterprise,2023-04-13,Partner
+C0068,Fintech,North America,Enterprise,2024-08-08,Referral
+C0069,E-commerce,North America,Enterprise,2023-02-24,Referral
+C0070,Healthtech,North America,Mid-Market,2024-12-21,Paid
+C0071,SaaS,Europe,SMB,2024-07-17,Organic
+C0072,Healthtech,Europe,SMB,2023-05-26,Paid
+C0073,Edtech,LATAM,SMB,2023-01-05,Paid
+C0074,Fintech,APAC,Mid-Market,2024-08-18,Paid
+C0075,SaaS,North America,Mid-Market,2024-05-31,Organic
+C0076,SaaS,Europe,SMB,2024-06-16,Partner
+C0077,Edtech,Europe,Enterprise,2024-07-17,Paid
+C0078,Edtech,North America,Mid-Market,2023-02-24,Organic
+C0079,E-commerce,APAC,Mid-Market,2023-09-19,Partner
+C0080,Fintech,North America,SMB,2023-03-26,Paid
+C0081,Fintech,APAC,Mid-Market,2024-09-22,Referral
+C0082,Healthtech,Europe,SMB,2024-03-31,Partner
+C0083,E-commerce,APAC,SMB,2023-08-30,Paid
+C0084,E-commerce,LATAM,SMB,2023-02-16,Partner
+C0085,E-commerce,Europe,SMB,2023-08-16,Partner
+C0086,E-commerce,LATAM,SMB,2023-08-26,Partner
+C0087,Fintech,North America,Mid-Market,2024-06-16,Partner
+C0088,Fintech,North America,SMB,2024-04-10,Partner
+C0089,E-commerce,North America,Mid-Market,2024-10-09,Partner
+C0090,Healthtech,APAC,SMB,2023-12-11,Paid
+C0091,SaaS,Europe,Enterprise,2023-03-29,Referral
+C0092,SaaS,North America,Enterprise,2024-06-04,Organic
+C0093,Healthtech,North America,SMB,2024-07-09,Partner
+C0094,E-commerce,Europe,SMB,2024-02-14,Organic
+C0095,Fintech,North America,SMB,2024-07-16,Paid
+C0096,SaaS,LATAM,Mid-Market,2023-12-27,Partner
+C0097,Edtech,Europe,Mid-Market,2024-01-17,Referral
+C0098,Edtech,Europe,SMB,2023-11-09,Organic
+C0099,Healthtech,Europe,Mid-Market,2023-01-19,Partner
+C0100,E-commerce,LATAM,SMB,2023-03-20,Paid
+C0101,SaaS,Europe,SMB,2023-01-23,Referral
+C0102,E-commerce,LATAM,Mid-Market,2024-04-09,Organic
+C0103,SaaS,Europe,SMB,2023-08-18,Organic
+C0104,Healthtech,APAC,Mid-Market,2024-01-07,Partner
+C0105,Healthtech,North America,SMB,2024-10-24,Referral
+C0106,Edtech,APAC,Enterprise,2023-07-01,Referral
+C0107,E-commerce,North America,SMB,2023-10-27,Referral
+C0108,Edtech,LATAM,SMB,2024-07-05,Referral
+C0109,E-commerce,APAC,Mid-Market,2023-06-17,Paid
+C0110,Edtech,Europe,SMB,2023-02-26,Referral
+C0111,Fintech,North America,Enterprise,2023-07-31,Organic
+C0112,Fintech,North America,Mid-Market,2023-04-28,Organic
+C0113,Fintech,APAC,Mid-Market,2024-11-09,Paid
+C0114,Fintech,LATAM,Mid-Market,2024-08-12,Organic
+C0115,SaaS,APAC,Enterprise,2024-04-07,Organic
+C0116,Fintech,LATAM,Enterprise,2024-09-28,Referral
+C0117,Healthtech,LATAM,Mid-Market,2024-08-09,Organic
+C0118,Healthtech,North America,Mid-Market,2023-05-17,Paid
+C0119,SaaS,APAC,SMB,2024-10-13,Referral
+C0120,Fintech,APAC,SMB,2024-01-29,Partner
+C0121,Fintech,LATAM,Mid-Market,2024-08-12,Referral
+C0122,Fintech,APAC,SMB,2024-10-16,Paid
+C0123,Edtech,Europe,SMB,2023-08-21,Referral
+C0124,E-commerce,Europe,SMB,2023-03-22,Referral
+C0125,Edtech,APAC,SMB,2023-06-16,Paid
+C0126,E-commerce,APAC,Mid-Market,2023-11-08,Referral
+C0127,Fintech,LATAM,Enterprise,2024-08-20,Paid
+C0128,Fintech,Europe,SMB,2024-09-20,Paid
+C0129,Edtech,Europe,Mid-Market,2023-01-06,Partner
+C0130,Edtech,North America,Enterprise,2024-01-08,Organic
+C0131,E-commerce,LATAM,SMB,2023-11-01,Organic
+C0132,Healthtech,North America,Mid-Market,2023-06-12,Referral
+C0133,E-commerce,Europe,SMB,2023-03-29,Referral
+C0134,Edtech,LATAM,SMB,2023-09-04,Partner
+C0135,Edtech,APAC,Enterprise,2024-11-19,Partner
+C0136,SaaS,LATAM,SMB,2023-08-24,Partner
+C0137,Edtech,APAC,Mid-Market,2024-01-14,Paid
+C0138,SaaS,APAC,Mid-Market,2024-05-28,Partner
+C0139,Healthtech,LATAM,SMB,2023-09-23,Partner
+C0140,E-commerce,APAC,Mid-Market,2024-12-10,Referral
+C0141,E-commerce,North America,Enterprise,2024-12-03,Partner
+C0142,SaaS,Europe,SMB,2023-07-03,Paid
+C0143,E-commerce,APAC,Enterprise,2023-12-29,Paid
+C0144,Edtech,North America,Mid-Market,2023-08-08,Referral
+C0145,Fintech,APAC,Mid-Market,2023-07-27,Partner
+C0146,SaaS,Europe,Mid-Market,2023-01-27,Partner
+C0147,E-commerce,North America,SMB,2024-03-20,Paid
+C0148,SaaS,Europe,Enterprise,2024-01-02,Partner
+C0149,SaaS,Europe,Enterprise,2023-02-07,Partner
+C0150,Fintech,North America,Mid-Market,2023-07-23,Partner
+C0151,Edtech,North America,Mid-Market,2024-10-25,Organic
+C0152,SaaS,North America,Mid-Market,2023-06-24,Referral
+C0153,E-commerce,LATAM,SMB,2023-04-16,Organic
+C0154,Healthtech,North America,Mid-Market,2023-12-24,Referral
+C0155,SaaS,North America,Mid-Market,2024-12-20,Paid
+C0156,SaaS,North America,Mid-Market,2023-06-26,Partner
+C0157,Fintech,North America,Mid-Market,2024-05-05,Referral
+C0158,Edtech,APAC,SMB,2024-07-09,Organic
+C0159,Healthtech,LATAM,SMB,2023-06-23,Partner
+C0160,E-commerce,Europe,SMB,2024-06-15,Paid
+C0161,Healthtech,North America,SMB,2023-09-26,Referral
+C0162,E-commerce,APAC,Mid-Market,2024-04-06,Referral
+C0163,Edtech,APAC,Mid-Market,2024-04-07,Referral
+C0164,E-commerce,APAC,Mid-Market,2024-01-27,Partner
+C0165,Fintech,Europe,SMB,2023-03-07,Organic
+C0166,Fintech,North America,Mid-Market,2024-09-01,Organic
+C0167,Fintech,LATAM,SMB,2023-08-23,Referral
+C0168,Fintech,LATAM,SMB,2023-05-17,Paid
+C0169,Healthtech,APAC,Mid-Market,2023-01-30,Paid
+C0170,Edtech,Europe,Enterprise,2024-03-07,Organic
+C0171,E-commerce,Europe,SMB,2024-05-09,Paid
+C0172,E-commerce,Europe,SMB,2023-01-13,Organic
+C0173,Fintech,LATAM,SMB,2024-01-09,Referral
+C0174,Fintech,APAC,SMB,2023-06-15,Organic
+C0175,SaaS,North America,Mid-Market,2024-04-15,Organic
+C0176,Edtech,LATAM,SMB,2023-05-08,Referral
+C0177,Healthtech,APAC,Mid-Market,2024-05-19,Paid
+C0178,E-commerce,APAC,SMB,2023-10-10,Organic
+C0179,SaaS,North America,SMB,2024-11-14,Organic
+C0180,SaaS,North America,SMB,2023-04-11,Referral
+C0181,E-commerce,North America,SMB,2023-09-06,Paid
+C0182,Healthtech,Europe,SMB,2023-03-24,Organic
+C0183,SaaS,North America,SMB,2024-11-06,Referral
+C0184,SaaS,APAC,Mid-Market,2024-10-02,Organic
+C0185,Edtech,North America,SMB,2023-07-08,Partner
+C0186,Healthtech,APAC,Enterprise,2024-04-26,Referral
+C0187,SaaS,LATAM,SMB,2024-08-19,Paid
+C0188,Healthtech,Europe,Mid-Market,2024-02-10,Paid
+C0189,E-commerce,LATAM,Mid-Market,2024-01-22,Paid
+C0190,Fintech,LATAM,Mid-Market,2023-06-26,Paid
+C0191,SaaS,APAC,Mid-Market,2023-03-09,Organic
+C0192,Edtech,LATAM,Mid-Market,2024-10-16,Organic
+C0193,E-commerce,APAC,Mid-Market,2024-10-19,Paid
+C0194,Healthtech,North America,Mid-Market,2024-04-07,Paid
+C0195,E-commerce,North America,Mid-Market,2023-09-05,Paid
+C0196,SaaS,APAC,SMB,2023-09-12,Organic
+C0197,Healthtech,North America,SMB,2024-06-13,Paid
+C0198,Fintech,Europe,Mid-Market,2024-10-16,Paid
+C0199,E-commerce,LATAM,Mid-Market,2024-10-09,Partner
+C0200,SaaS,Europe,Mid-Market,2024-07-23,Partner
+C0201,Edtech,LATAM,Mid-Market,2024-04-13,Paid
+C0202,Healthtech,North America,Enterprise,2023-03-03,Referral
+C0203,E-commerce,Europe,SMB,2023-04-28,Paid
+C0204,E-commerce,North America,SMB,2024-10-17,Partner
+C0205,Fintech,LATAM,SMB,2024-03-18,Referral
+C0206,Fintech,APAC,SMB,2023-01-07,Referral
+C0207,Edtech,APAC,Mid-Market,2023-03-16,Paid
+C0208,Edtech,Europe,SMB,2024-04-29,Partner
+C0209,SaaS,North America,Mid-Market,2023-01-04,Partner
+C0210,SaaS,North America,SMB,2023-04-28,Referral
+C0211,Edtech,Europe,Mid-Market,2024-02-05,Paid
+C0212,Edtech,APAC,Mid-Market,2024-05-20,Organic
+C0213,Healthtech,LATAM,SMB,2024-04-20,Organic
+C0214,Fintech,Europe,Mid-Market,2023-06-13,Partner
+C0215,SaaS,LATAM,SMB,2024-06-03,Organic
+C0216,Fintech,APAC,SMB,2023-06-23,Partner
+C0217,Fintech,North America,SMB,2023-08-26,Partner
+C0218,Edtech,APAC,SMB,2024-06-28,Partner
+C0219,Healthtech,Europe,SMB,2024-04-19,Organic
+C0220,E-commerce,North America,Mid-Market,2024-09-11,Partner
+C0221,Healthtech,Europe,Mid-Market,2024-04-25,Referral
+C0222,Healthtech,Europe,Mid-Market,2024-02-19,Paid
+C0223,Fintech,APAC,SMB,2023-03-10,Paid
+C0224,Healthtech,Europe,Mid-Market,2023-09-26,Partner
+C0225,SaaS,APAC,SMB,2023-07-13,Paid
+C0226,Fintech,North America,SMB,2023-06-28,Organic
+C0227,SaaS,APAC,Enterprise,2024-12-11,Organic
+C0228,E-commerce,North America,SMB,2023-10-14,Paid
+C0229,Fintech,APAC,Mid-Market,2024-10-13,Organic
+C0230,E-commerce,LATAM,Mid-Market,2024-04-05,Paid
+C0231,Fintech,LATAM,SMB,2024-08-03,Paid
+C0232,Edtech,Europe,SMB,2024-01-02,Paid
+C0233,Healthtech,APAC,SMB,2024-02-26,Partner
+C0234,Edtech,APAC,Enterprise,2023-12-26,Paid
+C0235,E-commerce,North America,SMB,2023-05-23,Partner
+C0236,Healthtech,Europe,SMB,2024-06-11,Paid
+C0237,Fintech,APAC,SMB,2023-07-24,Paid
+C0238,Healthtech,Europe,Mid-Market,2023-01-18,Paid
+C0239,SaaS,LATAM,SMB,2024-04-16,Organic
+C0240,Healthtech,APAC,SMB,2023-05-10,Partner
+C0241,SaaS,APAC,Mid-Market,2024-11-17,Partner
+C0242,Healthtech,Europe,Enterprise,2024-11-27,Paid
+C0243,SaaS,APAC,SMB,2024-10-29,Paid
+C0244,E-commerce,Europe,SMB,2023-09-28,Organic
+C0245,Edtech,APAC,SMB,2023-01-12,Organic
+C0246,Fintech,North America,Mid-Market,2024-11-08,Organic
+C0247,Healthtech,Europe,SMB,2023-11-09,Partner
+C0248,Edtech,APAC,Mid-Market,2024-12-06,Partner
+C0249,Fintech,LATAM,Mid-Market,2024-12-04,Partner
+C0250,Fintech,APAC,Mid-Market,2024-09-14,Paid
+C0251,SaaS,LATAM,SMB,2023-08-03,Partner
+C0252,E-commerce,LATAM,Enterprise,2023-10-09,Referral
+C0253,E-commerce,North America,Mid-Market,2024-09-13,Referral
+C0254,Edtech,Europe,Mid-Market,2023-08-20,Organic
+C0255,E-commerce,APAC,SMB,2023-05-04,Partner
+C0256,Healthtech,North America,Enterprise,2024-02-11,Referral
+C0257,E-commerce,APAC,SMB,2024-11-14,Organic
+C0258,Edtech,LATAM,SMB,2024-05-23,Partner
+C0259,E-commerce,Europe,SMB,2024-02-21,Paid
+C0260,Healthtech,APAC,Mid-Market,2023-03-12,Referral
+C0261,SaaS,APAC,SMB,2024-03-24,Paid
+C0262,Edtech,LATAM,SMB,2024-12-23,Partner
+C0263,SaaS,APAC,SMB,2023-04-13,Referral
+C0264,SaaS,APAC,SMB,2024-01-14,Partner
+C0265,SaaS,LATAM,Mid-Market,2024-10-02,Paid
+C0266,Fintech,North America,Mid-Market,2024-06-24,Referral
+C0267,Fintech,LATAM,SMB,2024-05-23,Paid
+C0268,SaaS,North America,SMB,2024-05-27,Partner
+C0269,Edtech,Europe,Mid-Market,2023-09-20,Partner
+C0270,Healthtech,North America,SMB,2023-08-03,Paid
+C0271,Healthtech,North America,SMB,2024-08-13,Referral
+C0272,E-commerce,Europe,Enterprise,2024-08-14,Paid
+C0273,Edtech,North America,Mid-Market,2024-09-24,Partner
+C0274,Fintech,LATAM,SMB,2024-10-28,Paid
+C0275,SaaS,North America,Mid-Market,2024-01-09,Partner
+C0276,E-commerce,Europe,SMB,2024-01-02,Paid
+C0277,Healthtech,LATAM,Mid-Market,2024-08-05,Referral
+C0278,Fintech,Europe,SMB,2024-04-19,Referral
+C0279,Fintech,Europe,SMB,2024-05-27,Paid
+C0280,SaaS,APAC,SMB,2024-08-03,Paid
+C0281,Healthtech,APAC,Enterprise,2024-10-11,Referral
+C0282,Edtech,Europe,Mid-Market,2023-09-04,Partner
+C0283,Fintech,Europe,SMB,2023-10-02,Referral
+C0284,SaaS,Europe,SMB,2023-03-10,Partner
+C0285,Edtech,APAC,Mid-Market,2024-02-27,Paid
+C0286,Healthtech,APAC,SMB,2023-01-27,Paid
+C0287,Fintech,North America,SMB,2023-12-06,Partner
+C0288,Edtech,North America,Enterprise,2024-02-01,Paid
+C0289,Edtech,Europe,SMB,2023-07-29,Partner
+C0290,Edtech,LATAM,Mid-Market,2024-03-07,Organic
+C0291,Fintech,LATAM,Enterprise,2023-01-23,Referral
+C0292,Fintech,APAC,SMB,2023-01-28,Organic
+C0293,E-commerce,APAC,SMB,2024-08-23,Partner
+C0294,Healthtech,APAC,SMB,2023-09-20,Referral
+C0295,SaaS,Europe,Mid-Market,2023-04-03,Partner
+C0296,Edtech,LATAM,Enterprise,2024-01-17,Referral
+C0297,E-commerce,North America,Mid-Market,2024-07-16,Referral
+C0298,SaaS,Europe,SMB,2023-06-07,Referral
+C0299,E-commerce,North America,Mid-Market,2024-03-30,Referral
+C0300,Fintech,North America,Enterprise,2023-03-04,Partner
+C0301,Edtech,Europe,Mid-Market,2023-02-07,Referral
+C0302,SaaS,North America,Enterprise,2024-01-23,Referral
+C0303,SaaS,LATAM,Mid-Market,2024-01-30,Organic
+C0304,SaaS,North America,Mid-Market,2024-04-10,Paid
+C0305,SaaS,LATAM,Mid-Market,2024-06-14,Paid
+C0306,SaaS,LATAM,SMB,2024-12-13,Organic
+C0307,E-commerce,LATAM,SMB,2024-01-12,Organic
+C0308,Edtech,APAC,Mid-Market,2023-08-24,Partner
+C0309,Fintech,North America,SMB,2024-08-03,Partner
+C0310,Fintech,Europe,Enterprise,2023-07-17,Partner
+C0311,Fintech,Europe,Enterprise,2023-11-17,Organic
+C0312,Fintech,North America,Mid-Market,2023-02-27,Organic
+C0313,E-commerce,APAC,SMB,2023-01-19,Referral
+C0314,Healthtech,APAC,SMB,2024-12-03,Partner
+C0315,Edtech,LATAM,SMB,2024-09-02,Partner
+C0316,SaaS,North America,Mid-Market,2024-05-23,Partner
+C0317,Healthtech,North America,Mid-Market,2023-10-26,Paid
+C0318,Fintech,Europe,Enterprise,2023-05-07,Referral
+C0319,Healthtech,North America,SMB,2023-04-25,Partner
+C0320,Edtech,APAC,Enterprise,2023-07-02,Partner
+C0321,SaaS,North America,Enterprise,2024-02-05,Partner
+C0322,SaaS,Europe,SMB,2024-06-05,Paid
+C0323,Edtech,LATAM,Enterprise,2024-04-26,Paid
+C0324,Edtech,Europe,SMB,2023-07-24,Organic
+C0325,Fintech,Europe,SMB,2024-11-28,Referral
+C0326,SaaS,LATAM,Mid-Market,2024-06-22,Organic
+C0327,Healthtech,Europe,SMB,2024-02-09,Referral
+C0328,E-commerce,Europe,Mid-Market,2024-03-22,Paid
+C0329,E-commerce,North America,Mid-Market,2023-11-03,Partner
+C0330,Edtech,North America,Mid-Market,2023-06-30,Organic
+C0331,Fintech,LATAM,SMB,2023-09-17,Partner
+C0332,E-commerce,North America,Mid-Market,2024-07-07,Organic
+C0333,SaaS,North America,Mid-Market,2023-01-11,Paid
+C0334,Edtech,Europe,Mid-Market,2023-03-26,Paid
+C0335,Healthtech,APAC,SMB,2023-02-03,Paid
+C0336,Edtech,North America,SMB,2023-01-30,Organic
+C0337,Healthtech,APAC,Mid-Market,2024-09-16,Referral
+C0338,Edtech,North America,SMB,2024-05-28,Organic
+C0339,Edtech,North America,Mid-Market,2023-12-13,Referral
+C0340,Edtech,LATAM,Mid-Market,2023-03-13,Organic
+C0341,Healthtech,LATAM,Mid-Market,2023-12-25,Organic
+C0342,Healthtech,LATAM,Mid-Market,2023-12-12,Paid
+C0343,Edtech,APAC,Enterprise,2023-05-07,Partner
+C0344,E-commerce,Europe,Mid-Market,2023-11-13,Partner
+C0345,Fintech,North America,Enterprise,2023-10-18,Referral
+C0346,Fintech,North America,Mid-Market,2024-03-25,Partner
+C0347,Fintech,North America,SMB,2024-04-08,Organic
+C0348,Healthtech,APAC,SMB,2023-02-03,Organic
+C0349,Healthtech,LATAM,Mid-Market,2023-10-01,Paid
+C0350,E-commerce,Europe,SMB,2024-04-01,Paid
+C0351,Fintech,APAC,SMB,2024-01-03,Partner
+C0352,Fintech,LATAM,SMB,2024-09-17,Referral
+C0353,Edtech,APAC,Mid-Market,2024-04-25,Partner
+C0354,Healthtech,Europe,Mid-Market,2023-04-29,Partner
+C0355,Fintech,LATAM,Mid-Market,2023-02-21,Partner
+C0356,E-commerce,APAC,Mid-Market,2024-04-13,Partner
+C0357,E-commerce,Europe,Mid-Market,2023-01-20,Organic
+C0358,Fintech,North America,SMB,2024-03-03,Referral
+C0359,Healthtech,Europe,Enterprise,2024-11-17,Organic
+C0360,E-commerce,North America,SMB,2024-02-25,Referral
+C0361,Edtech,APAC,Enterprise,2023-10-11,Paid
+C0362,E-commerce,LATAM,Mid-Market,2024-04-14,Partner
+C0363,SaaS,LATAM,SMB,2023-12-01,Organic
+C0364,SaaS,APAC,SMB,2024-02-03,Referral
+C0365,Healthtech,LATAM,SMB,2024-11-18,Paid
+C0366,Fintech,LATAM,SMB,2023-10-09,Paid
+C0367,Healthtech,North America,SMB,2024-12-02,Partner
+C0368,Healthtech,APAC,Mid-Market,2024-10-22,Referral
+C0369,Healthtech,Europe,Mid-Market,2023-05-23,Organic
+C0370,Healthtech,North America,Mid-Market,2023-02-20,Partner
+C0371,Edtech,APAC,Enterprise,2023-03-15,Organic
+C0372,Edtech,North America,Mid-Market,2023-01-14,Paid
+C0373,E-commerce,Europe,Mid-Market,2023-03-10,Organic
+C0374,SaaS,Europe,SMB,2024-05-13,Organic
+C0375,Healthtech,APAC,Mid-Market,2023-02-21,Partner
+C0376,E-commerce,Europe,SMB,2023-08-21,Organic
+C0377,SaaS,North America,Enterprise,2024-09-08,Partner
+C0378,Fintech,Europe,Mid-Market,2023-01-17,Paid
+C0379,Edtech,North America,Mid-Market,2024-08-17,Partner
+C0380,SaaS,North America,SMB,2023-07-25,Partner
+C0381,Fintech,Europe,Enterprise,2023-03-28,Referral
+C0382,SaaS,APAC,Mid-Market,2024-05-23,Organic
+C0383,Edtech,LATAM,SMB,2024-04-04,Paid
+C0384,Edtech,Europe,SMB,2024-10-02,Partner
+C0385,E-commerce,North America,Mid-Market,2024-06-20,Paid
+C0386,Healthtech,North America,SMB,2024-08-09,Referral
+C0387,SaaS,Europe,Enterprise,2023-07-25,Organic
+C0388,SaaS,APAC,SMB,2023-05-10,Partner
+C0389,Fintech,APAC,SMB,2024-07-01,Organic
+C0390,Edtech,North America,Mid-Market,2024-08-11,Referral
+C0391,SaaS,North America,SMB,2024-12-24,Referral
+C0392,Edtech,APAC,Mid-Market,2023-10-29,Paid
+C0393,SaaS,LATAM,SMB,2023-09-29,Partner
+C0394,E-commerce,Europe,SMB,2024-07-20,Paid
+C0395,Healthtech,North America,Mid-Market,2023-09-06,Referral
+C0396,SaaS,North America,Mid-Market,2024-11-10,Organic
+C0397,Edtech,APAC,Mid-Market,2024-09-18,Paid
+C0398,E-commerce,Europe,Mid-Market,2023-11-10,Paid
+C0399,SaaS,APAC,Mid-Market,2024-07-02,Organic
+C0400,Fintech,Europe,SMB,2024-07-04,Paid
+C0401,Healthtech,Europe,SMB,2023-03-17,Organic
+C0402,SaaS,Europe,Enterprise,2024-10-20,Partner
+C0403,E-commerce,North America,Mid-Market,2024-01-04,Organic
+C0404,Fintech,LATAM,Mid-Market,2024-08-26,Partner
+C0405,E-commerce,APAC,SMB,2023-08-22,Organic
+C0406,E-commerce,LATAM,SMB,2024-10-15,Referral
+C0407,Fintech,APAC,Mid-Market,2023-10-12,Referral
+C0408,E-commerce,Europe,Enterprise,2023-01-08,Partner
+C0409,Fintech,North America,Mid-Market,2024-10-22,Partner
+C0410,SaaS,LATAM,Mid-Market,2023-03-08,Referral
+C0411,Fintech,North America,Mid-Market,2023-08-22,Partner
+C0412,Fintech,APAC,SMB,2024-11-24,Organic
+C0413,Healthtech,North America,SMB,2024-11-24,Organic
+C0414,Fintech,North America,SMB,2024-02-23,Referral
+C0415,Fintech,LATAM,SMB,2024-04-06,Paid
+C0416,SaaS,Europe,Enterprise,2023-11-24,Organic
+C0417,Healthtech,North America,SMB,2023-08-03,Partner
+C0418,Edtech,Europe,Mid-Market,2023-08-28,Paid
+C0419,SaaS,APAC,SMB,2024-05-05,Paid
+C0420,SaaS,North America,SMB,2024-07-03,Organic
+C0421,Edtech,LATAM,SMB,2024-07-31,Organic
+C0422,Fintech,APAC,SMB,2024-07-30,Paid
+C0423,E-commerce,APAC,Mid-Market,2023-03-08,Paid
+C0424,Healthtech,LATAM,SMB,2023-12-27,Referral
+C0425,E-commerce,North America,Mid-Market,2023-02-12,Partner
+C0426,Edtech,North America,SMB,2024-02-06,Referral
+C0427,SaaS,APAC,SMB,2023-11-19,Organic
+C0428,SaaS,North America,SMB,2024-10-10,Referral
+C0429,Healthtech,Europe,Mid-Market,2023-09-14,Referral
+C0430,SaaS,LATAM,Mid-Market,2023-03-27,Referral
+C0431,SaaS,Europe,SMB,2023-04-15,Referral
+C0432,Healthtech,North America,SMB,2024-07-09,Partner
+C0433,Healthtech,APAC,Mid-Market,2024-03-27,Partner
+C0434,Edtech,LATAM,SMB,2023-03-15,Paid
+C0435,SaaS,North America,SMB,2023-03-03,Organic
+C0436,SaaS,North America,Mid-Market,2024-05-26,Referral
+C0437,Edtech,APAC,Mid-Market,2023-02-23,Paid
+C0438,Fintech,APAC,SMB,2024-08-22,Paid
+C0439,Fintech,Europe,Enterprise,2024-05-30,Paid
+C0440,Fintech,LATAM,Mid-Market,2023-03-01,Partner
+C0441,Edtech,LATAM,SMB,2023-03-03,Referral
+C0442,SaaS,APAC,Mid-Market,2024-12-21,Referral
+C0443,Edtech,Europe,Mid-Market,2023-10-01,Organic
+C0444,Edtech,LATAM,SMB,2023-09-28,Referral
+C0445,Fintech,APAC,SMB,2024-08-16,Referral
+C0446,E-commerce,North America,SMB,2024-11-22,Paid
+C0447,SaaS,LATAM,Mid-Market,2024-12-20,Organic
+C0448,Fintech,Europe,SMB,2024-07-03,Referral
+C0449,E-commerce,Europe,Mid-Market,2023-10-02,Partner
+C0450,E-commerce,Europe,Mid-Market,2023-03-02,Referral
+C0451,Healthtech,North America,SMB,2024-07-21,Paid
+C0452,SaaS,LATAM,Mid-Market,2024-02-12,Partner
+C0453,E-commerce,LATAM,SMB,2023-11-06,Paid
+C0454,Fintech,North America,Mid-Market,2024-10-23,Referral
+C0455,Healthtech,LATAM,Mid-Market,2023-03-23,Partner
+C0456,SaaS,North America,SMB,2023-12-26,Organic
+C0457,Edtech,North America,SMB,2023-01-09,Organic
+C0458,Fintech,North America,SMB,2023-12-09,Partner
+C0459,E-commerce,Europe,SMB,2023-02-11,Partner
+C0460,E-commerce,LATAM,SMB,2023-03-28,Paid
+C0461,Fintech,North America,SMB,2023-03-27,Partner
+C0462,E-commerce,LATAM,Enterprise,2024-04-18,Paid
+C0463,Healthtech,Europe,SMB,2024-06-28,Referral
+C0464,SaaS,North America,SMB,2024-03-01,Paid
+C0465,Healthtech,APAC,Mid-Market,2024-12-03,Partner
+C0466,E-commerce,Europe,SMB,2023-10-01,Partner
+C0467,Edtech,APAC,Enterprise,2023-07-28,Referral
+C0468,SaaS,LATAM,Mid-Market,2024-09-26,Partner
+C0469,SaaS,LATAM,Mid-Market,2023-06-13,Partner
+C0470,Fintech,Europe,SMB,2024-12-04,Organic
+C0471,Fintech,LATAM,SMB,2023-01-09,Organic
+C0472,Edtech,APAC,SMB,2024-12-09,Referral
+C0473,SaaS,North America,Mid-Market,2023-02-01,Paid
+C0474,Edtech,North America,SMB,2024-10-12,Organic
+C0475,Fintech,North America,SMB,2024-01-21,Paid
+C0476,Fintech,Europe,Enterprise,2024-12-25,Partner
+C0477,SaaS,LATAM,SMB,2023-02-23,Organic
+C0478,Healthtech,APAC,SMB,2024-02-09,Referral
+C0479,E-commerce,LATAM,SMB,2024-12-08,Referral
+C0480,Fintech,LATAM,Enterprise,2024-01-17,Referral
+C0481,Fintech,LATAM,SMB,2024-04-04,Organic
+C0482,Healthtech,North America,Mid-Market,2024-05-22,Paid
+C0483,Healthtech,APAC,Mid-Market,2023-11-28,Partner
+C0484,Edtech,APAC,SMB,2024-04-03,Paid
+C0485,Edtech,LATAM,Mid-Market,2024-03-02,Paid
+C0486,E-commerce,North America,SMB,2024-10-19,Partner
+C0487,E-commerce,North America,SMB,2023-02-03,Partner
+C0488,SaaS,APAC,Mid-Market,2023-07-25,Organic
+C0489,Edtech,North America,Enterprise,2024-11-24,Organic
+C0490,Fintech,North America,Mid-Market,2024-10-11,Organic
+C0491,Edtech,North America,Mid-Market,2023-11-29,Organic
+C0492,Fintech,Europe,SMB,2024-03-28,Organic
+C0493,Healthtech,LATAM,SMB,2023-07-22,Partner
+C0494,Edtech,APAC,SMB,2023-05-18,Paid
+C0495,Healthtech,APAC,SMB,2023-12-05,Organic
+C0496,E-commerce,Europe,SMB,2023-09-15,Organic
+C0497,E-commerce,LATAM,SMB,2024-03-02,Paid
+C0498,SaaS,APAC,SMB,2023-02-26,Organic
+C0499,Edtech,North America,SMB,2024-12-12,Paid
+C0500,Healthtech,APAC,Mid-Market,2024-12-20,Paid
